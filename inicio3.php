@@ -1,5 +1,5 @@
 <?php
-include_once "Dws/ProyectoVideoclub/Videoclub.php"; // No incluimos nada más
+use Dws\ProyectoVideoclub\Videoclub;
 
 $vc = new Videoclub("Severo 8A"); 
 

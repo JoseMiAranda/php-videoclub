@@ -1,4 +1,6 @@
 <?php 
+    namespace Dws\ProyectoVideoclub;
+    
     include_once 'Soporte.php';
     include 'CintaVideo.php';
     include 'Cliente.php';

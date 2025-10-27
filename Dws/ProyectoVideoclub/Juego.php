@@ -1,4 +1,5 @@
 <?php 
+    namespace Dws\ProyectoVideoclub;
 
     include_once 'Soporte.php';
     include_once 'Resumible.php';
