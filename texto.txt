@@ -1,0 +1,2 @@
+No es necesario ponerlo en los hijos, ya que lo tendrá el método padre, pero si quieres que cada uno de los objetos se sobreescriba,
+es conveninete usarlo.
